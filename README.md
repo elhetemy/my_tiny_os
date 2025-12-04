@@ -25,4 +25,6 @@ It includes a basic framebuffer driver to print text to the screen and C functio
 ## How to Run
 1. Install dependencies: `nasm`, `gcc`, `genisoimage`, `qemu`.
 2. Build: `make os.iso`
-3. Run: `make run`
+3. Run: `make run`<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9ca86071-9907-4acb-9499-a8683aabbd0d" />
+
+![hello world](https://github.com/user-attachments/assets/ebbd8c9b-b55a-4a1d-95b5-57cf02f2c968)
